@@ -3,6 +3,7 @@
  * main - using puts function, display a string
  * Return: 0
  */
+
 int main(void)
 
 {
