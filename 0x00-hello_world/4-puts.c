@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - using puts function, display a string
  * Return: 0
  */
