@@ -2,6 +2,7 @@
 
 /**
 * main - checks number if neg or pos
+*
 * Return: 0
 */
 int main(void)
