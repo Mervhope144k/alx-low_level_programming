@@ -1,6 +1,7 @@
 #include "main.h"
+
 /**
-* main - checks the sign of integer.
+* main - checks number if neg or pos
 * Return: 0
 */
 int main(void)
