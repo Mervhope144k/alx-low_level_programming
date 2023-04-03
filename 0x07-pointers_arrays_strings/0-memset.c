@@ -3,7 +3,7 @@
 /**
  * _memset - this customised function will work like the builtin memset.
  * @s: argument one, pointer
- * @b: argument two, 
+ * @b: argument two,
  * @n: argument three,constant
  * Return: a pointer
  */
