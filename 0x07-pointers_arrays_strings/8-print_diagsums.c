@@ -2,7 +2,7 @@
 /**
  * print_diagsums - this customised function prints per the requirement.
  * @a: argument one, a pointer
- * @size: argument two, 
+ * @size: argument two,
  * Return: void
  */
 
