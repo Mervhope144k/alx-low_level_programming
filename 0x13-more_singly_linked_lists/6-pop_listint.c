@@ -1,6 +1,6 @@
 #include "lists.h"
 
-/*
+/**
  * pop_listint - function that deletes the head node.
  * @head : double pointer
  * Return : 0 if the list is empty, else return data.

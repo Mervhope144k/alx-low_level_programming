@@ -1,7 +1,7 @@
 #include "lists.h"
 
-/*
- * get_nodeint_at_index - gives the location of a node.
+/**
+ * get_nodeint_at_index - gives the location of a node in listint_t list.
  * @head : pointer
  * @index : position of the node in the list
  * Return : NULL if node does not exist, else the index
