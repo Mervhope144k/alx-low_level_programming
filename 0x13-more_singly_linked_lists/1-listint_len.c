@@ -3,7 +3,7 @@
 
 /**
  * listint_len - funtion that returns
- * 		number of elements of linked list
+ *               number of elements of linked list
  * @h: pointer to head of linked list
  * Return: number of elements
  */
